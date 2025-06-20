@@ -18,11 +18,6 @@ This project demonstrates how to modify the system `TabView` in SwiftUI using `U
 
 ## 📸 Demo Previews
 
-### Default TabView
-![Default TabView](demos/default-tabview.gif)
-
-### TabView with Separator
-![TabView with Separator](demos/tabview-separator.gif)
-
-### Modified Appearance
-![Modified Appearance](demos/tabview-modified.gif)
+| Default TabView | TabView with Separator | Modified Appearance |
+| - | - | - |
+| ![Default TabView](demos/default-tabview.gif) | ![TabView with Separator](demos/tabview-separator.gif) | ![Modified Appearance](demos/tabview-modified.gif) |
