@@ -16,7 +16,8 @@ This project demonstrates how to modify the system `TabView` in SwiftUI using `U
 - ➖ Always show separator line above the tab bar
 - 📱 Built entirely with SwiftUI and UIKit's `UITabBarAppearance`
 
-## 📸 Demo
+## 🎥 Demo Videos
 
-> *(Include screenshots in this section if you have them in the repo)*
-
+- [▶️ Default TabView Demo](demos/default-tabview.mp4)
+- [▶️ TabView with Separator Demo](demos/tabview-separator.mp4)
+- [▶️ Modified Appearance Demo](demos/tabview-modified.mp4)
